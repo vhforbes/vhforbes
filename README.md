@@ -36,6 +36,5 @@
   <div class="projects">
     <p>Rock Paper Scissors <a target="__blank" href="https://github.com/vhforbes/rockPaperScissors">Check it out here!</a></p>
     
-    <br>
   </div>
 </div>
