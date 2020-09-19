@@ -1,16 +1,66 @@
-### Hi there 👋
+<h1>Hey! I`m Victor 👋</h1>
 
-<!--
-**vhforbes/vhforbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>Welcome to my GitHub profile!</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>In the beggining of 2020 I`ve entered the world of programming. Thanks to <a target="_blank" href="theodinproject.com/home">The Odin Project</a>, an
+  open source project, I was able to fall in love with my first programming language, <strong><i>JavaScript</i></strong>. Since then I`ve developed
+  a ton of projects to learn it by doing! Not satisfied I`ve also enrolled on a course from <a target="_blank" href="https://www.digitalhouse.com/">Digital House</a>
+  , a brazilian coding school, so that I can get a grasp of the local market requirements and good practices.
+  </p>
+
+  <p>My goal is to be hired as a junior full stack developer. It must me amazing to learn and share knowledge with
+  your peers while building something big and meaningful doing it!
+  </p>
+
+  <h2>Check out some of my work:</h2>
+
+<div class="projects-container">
+  <div class='projects'>
+    <p>JS Calculator</p>
+    <a target="_blank" href="https://github.com/vhforbes/theCalculator">Check it out here!</a>
+  </div>
+
+  <div class="projects">
+    <p>Etch a Sketch</p>
+    <a target="_blank" href="https://github.com/vhforbes/etchASketch">Check it out here!</a>
+  </div>
+
+  <div class="projects">
+    <p>Countdown Timer</p>
+    <a target="_blank" href="https://github.com/vhforbes/countdownTimer">Check it out here!</a>
+  </div>
+
+  <div class="projects">
+    <p>Rock Paper Scissors</p>
+    <a target="__blank" href="https://github.com/vhforbes/rockPaperScissors">Check it out here!</a>
+  </div>
+</div>
+
+
+
+  <!-- Style -->
+  <style>
+    .projects-container {
+      display: inline-grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      column-gap: 10px;
+      row-gap: 15px;
+      text-align: center;
+    }
+
+    .projects {
+      border: solid;
+      border-radius: 15px;
+      padding: 0px 10px 10px 10px;
+      color: white;
+      background-color: rgb(48, 48, 48);
+    }
+
+    a {
+      color: coral;
+    }
+
+
+
+  </style>
