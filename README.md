@@ -1,40 +1,20 @@
-<h1>Hey! I`m Victor 👋</h1>
+# Hey! I`m Victor 👋
 
-  <h2>Welcome to my GitHub profile!</h2>
+## Welcome to my GitHub profile!
+
+In the beggining of 2020 I`ve entered the world of programming. Thanks to [The Odin Project](theodinproject.com/home), an open source project, I was able to fall in love with my first programming language, **_JavaScript_**. Since then I`ve developed a ton of projects to learn it by doing! Not satisfied I`ve also enrolled on a course from [Digital House](https://www.digitalhouse.com/) , a brazilian coding school, so that I can get a grasp of the local market requirements and good practices.
+
+My goal is to be hired as a junior full stack developer. It must me amazing to learn and share knowledge with your peers while building something big and meaningful doing it!
+
+## Check out some of my work:
 
 
-  <p>In the beggining of 2020 I`ve entered the world of programming. Thanks to <a target="_blank" href="theodinproject.com/home">The Odin Project</a>, an
-  open source project, I was able to fall in love with my first programming language, <strong><i>JavaScript</i></strong>. Since then I`ve developed
-  a ton of projects to learn it by doing! Not satisfied I`ve also enrolled on a course from <a target="_blank" href="https://www.digitalhouse.com/">Digital House</a>
-  , a brazilian coding school, so that I can get a grasp of the local market requirements and good practices.
-  </p>
+JS Calculator [Check it out here!](https://github.com/vhforbes/theCalculator)
 
-  <p>My goal is to be hired as a junior full stack developer. It must me amazing to learn and share knowledge with
-  your peers while building something big and meaningful doing it!
-  </p>
 
-  <h2>Check out some of my work:</h2>
+Etch a Sketch [Check it out here!](https://github.com/vhforbes/etchASketch)
 
-<div class="projects-container">
-  <div class='projects'>
-    <p>JS Calculator <a target="_blank" href="https://github.com/vhforbes/theCalculator">Check it out here!</a></p>
-    
-  </div>
 
-  <div class="projects">
-    <p>Etch a Sketch <a target="_blank" href="https://github.com/vhforbes/etchASketch">Check it out here!</a></p>
-    
-  
-  </div>
+Countdown Timer [Check it out here!](https://github.com/vhforbes/countdownTimer)
 
-  <div class="projects">
-    <p>Countdown Timer <a target="_blank" href="https://github.com/vhforbes/countdownTimer">Check it out here!</a></p>
-    
-   
-  </div>
-
-  <div class="projects">
-    <p>Rock Paper Scissors <a target="__blank" href="https://github.com/vhforbes/rockPaperScissors">Check it out here!</a></p>
-    
-  </div>
-</div>
+Rock Paper Scissors [Check it out here!](https://github.com/vhforbes/rockPaperScissors)
