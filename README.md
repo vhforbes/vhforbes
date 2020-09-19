@@ -17,25 +17,25 @@
 
 <div class="projects-container">
   <div class='projects'>
-    <p>JS Calculator</p>
-    <a target="_blank" href="https://github.com/vhforbes/theCalculator">Check it out here!</a>
+    <p>JS Calculator <a target="_blank" href="https://github.com/vhforbes/theCalculator">Check it out here!</a></p>
+    
   </div>
 
   <div class="projects">
-    <p>Etch a Sketch</p>
-    <a target="_blank" href="https://github.com/vhforbes/etchASketch">Check it out here!</a>
+    <p>Etch a Sketch <a target="_blank" href="https://github.com/vhforbes/etchASketch">Check it out here!</a></p>
+    
     <br>
   </div>
 
   <div class="projects">
-    <p>Countdown Timer</p>
-    <a target="_blank" href="https://github.com/vhforbes/countdownTimer">Check it out here!</a>
+    <p>Countdown Timer <a target="_blank" href="https://github.com/vhforbes/countdownTimer">Check it out here!</a></p>
+    
     <br>
   </div>
 
   <div class="projects">
-    <p>Rock Paper Scissors</p>
-    <a target="__blank" href="https://github.com/vhforbes/rockPaperScissors">Check it out here!</a>
+    <p>Rock Paper Scissors <a target="__blank" href="https://github.com/vhforbes/rockPaperScissors">Check it out here!</a></p>
+    
     <br>
   </div>
 </div>
