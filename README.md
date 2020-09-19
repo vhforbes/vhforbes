@@ -36,31 +36,3 @@
     <a target="__blank" href="https://github.com/vhforbes/rockPaperScissors">Check it out here!</a>
   </div>
 </div>
-
-
-
-  <!-- Style -->
-  <style>
-    .projects-container {
-      display: inline-grid;
-      grid-template-columns: 1fr 1fr 1fr 1fr;
-      column-gap: 10px;
-      row-gap: 15px;
-      text-align: center;
-    }
-
-    .projects {
-      border: solid;
-      border-radius: 15px;
-      padding: 0px 10px 10px 10px;
-      color: white;
-      background-color: rgb(48, 48, 48);
-    }
-
-    a {
-      color: coral;
-    }
-
-
-
-  </style>
