@@ -24,13 +24,13 @@
   <div class="projects">
     <p>Etch a Sketch <a target="_blank" href="https://github.com/vhforbes/etchASketch">Check it out here!</a></p>
     
-    <br>
+  
   </div>
 
   <div class="projects">
     <p>Countdown Timer <a target="_blank" href="https://github.com/vhforbes/countdownTimer">Check it out here!</a></p>
     
-    <br>
+   
   </div>
 
   <div class="projects">
