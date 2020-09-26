@@ -8,11 +8,12 @@ My goal is to be hired as a junior full stack developer. It must me amazing to l
 
 ## Check out some of my work:
 
+Tic Tac Toe [Check it out!](https://github.com/vhforbes/ticTacToe)
 
-JS Calculator [Check it out here!](https://github.com/vhforbes/theCalculator)
+JS Calculator [Check it out!](https://github.com/vhforbes/theCalculator)
 
-Etch a Sketch [Check it out here!](https://github.com/vhforbes/etchASketch)
+Etch a Sketch [Check it out!](https://github.com/vhforbes/etchASketch)
 
-Countdown Timer [Check it out here!](https://github.com/vhforbes/countdownTimer)
+Countdown Timer [Check it out!](https://github.com/vhforbes/countdownTimer)
 
-Rock Paper Scissors [Check it out here!](https://github.com/vhforbes/rockPaperScissors)
+Rock Paper Scissors [Check it out!](https://github.com/vhforbes/rockPaperScissors)
