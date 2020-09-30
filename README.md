@@ -8,6 +8,8 @@ My goal is to be hired as a junior full stack developer. It must me amazing to l
 
 ## Check out some of my work:
 
+[WebPack Restaurant Page](https://vhforbes.github.io/restaurantWebpack/){:target="_blank"}
+
 Tic Tac Toe [Check it out!](https://github.com/vhforbes/ticTacToe)
 
 JS Calculator [Check it out!](https://github.com/vhforbes/theCalculator)
