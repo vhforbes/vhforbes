@@ -10,6 +10,8 @@ My goal is to be hired as a junior full stack developer. It must be amazing to l
 
 ## Check out some of my work:
 
+[Wheather Forecast With React](https://vhforbes.github.io/weather-api/)
+
 [WebPack Restaurant Page](https://vhforbes.github.io/restaurantWebpack/)
 
 [Tic Tac Toe ](https://github.com/vhforbes/ticTacToe)
