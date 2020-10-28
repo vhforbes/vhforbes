@@ -10,9 +10,11 @@ My goal is to be hired as a junior full stack developer. It must be amazing to l
 
 ## Check out some of my work:
 
-[Shopping Cart - React](https://vhforbes.github.io/shopping-cart-react/)
-
 [Wheather Forecast - React](https://vhforbes.github.io/weather-api/)
+
+[Todo list - React](https://vhforbes.github.io/todo-list-react/)
+
+[Shopping Cart - React](https://vhforbes.github.io/shopping-cart-react/)
 
 [WebPack Restaurant Page](https://vhforbes.github.io/restaurantWebpack/)
 
