@@ -2,11 +2,13 @@
 
 ## Welcome to my GitHub profile!
 
-In the beggining of 2020 I've entered the world of programming. Thanks to [The Odin Project](theodinproject.com/home), an open source project, I was able to fall in love with my first programming language, **_JavaScript_**. Since then I've developed a ton of projects to learn it by doing! Not satisfied I've also enrolled on a course from [Digital House](https://www.digitalhouse.com/) , a brazilian coding school, doing so that I can get a better grasp of the local market requirements and good practices.
+In the beggining of 2020 I've entered the world of programming. Thanks to [The Odin Project](theodinproject.com/home), an open source project, I was able to fall in love with my first programming language, **_JavaScript_**. Since then I've developed a ton of projects to learn it by doing!
 
-I'm codding **every day**. You can check out my progress here on GitHub, I've linked some of my projects down bellow. Feel free to check it out, and if necessary I'm at your disposal to answer any questions.
+Fast Forward to a few months latter and now I'm a developer in one of the largest companies in the world, Accenture.
 
-My goal is to be hired as a junior full stack developer. It must be amazing to learn and share knowledge with your peers while building something big and meaningful doing it!
+I'm coding **every day**. Sometimes I like to try some different things like solidity, express and even C++. It helps me to see things from different perspectives and implement new coding concepts to my toolbelt
+
+My goal is to be hired by an international company so that I can keep doing what I love in my second language.
 
 ## Check out some of my work:
 
