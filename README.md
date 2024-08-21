@@ -9,6 +9,12 @@ In the beginning of 2020 I entered the world of programming. Thanks to [The Odin
 
 ## Check out some of my recent work:
 
+### [anyflow](https://app-staging.anyflow.pro/start)
+Streamline web3 DevOps with fast, secure multi-blockchain smart contract deployments
+
+[anyflow - Frontend](https://github.com/vhforbes/anyflow-frontend)
+
+
 ### [GNK.APP](https://www.gnk.app/)
 Trading platform for a YouTuber, backend made in Express and frontend made in NextJS, both using typescript.
 
@@ -16,13 +22,10 @@ Trading platform for a YouTuber, backend made in Express and frontend made in Ne
 
 [GNK.APP - Backend](https://github.com/vhforbes/genkidama_api/)
 
+### [EventsHUB](https://nextjs-azure-nine-44.vercel.app/)
+A hackaton project made over one weekend, our goal was to showcase a crowfunding plataform for events using blockchain.
 
-### [anyflow](https://app-staging.anyflow.pro/start)
-Streamline web3 DevOps with fast, secure multi-blockchain smart contract deployments
-
-[anyflow - Frontend](https://github.com/vhforbes/anyflow-frontend)
-
-
+[EventsHUB - Frontend](https://github.com/vhforbes/events-hub)
 
 
 ## Check out some of my early work:
