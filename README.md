@@ -9,10 +9,11 @@ In the beginning of 2020 I entered the world of programming. Thanks to [The Odin
 
 ## Check out some of my recent work:
 
-# [GNK.APP](https://www.gnk.app/)
+### [GNK.APP](https://www.gnk.app/)
 Trading platform for a YouTuber, backend made in Express and frontend made in NextJS, both using typescript.
 
 [GNK.APP - Frontend](https://github.com/vhforbes/genkidama_web/)
+
 [GNK.APP - Backend](https://github.com/vhforbes/genkidama_api/)
 
 
