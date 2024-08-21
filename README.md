@@ -15,7 +15,7 @@ Streamline web3 DevOps with fast, secure multi-blockchain smart contract deploym
 [anyflow - Frontend](https://github.com/vhforbes/anyflow-frontend)
 
 
-### [GNK.APP](https://www.gnk.app/)
+### [gnk.app](https://www.gnk.app/)
 Trading platform for a YouTuber, backend made in Express and frontend made in NextJS, both using typescript.
 
 [GNK.APP - Frontend](https://github.com/vhforbes/genkidama_web/)
