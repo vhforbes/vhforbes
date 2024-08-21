@@ -28,22 +28,6 @@ A hackaton project made over one weekend, our goal was to showcase a crowfunding
 [EventsHUB - Frontend](https://github.com/vhforbes/events-hub)
 
 
-## Check out some of my early work:
+## Check out some of my early works:
 
-[Wheather Forecast - React](https://vhforbes.github.io/weather-api/)
-
-[Todo list - React](https://vhforbes.github.io/todo-list-react/)
-
-[Shopping Cart - React](https://vhforbes.github.io/shopping-cart-react/)
-
-[WebPack Restaurant Page](https://vhforbes.github.io/restaurantWebpack/)
-
-[Tic Tac Toe ](https://github.com/vhforbes/ticTacToe)
-
-[JS Calculator](https://github.com/vhforbes/theCalculator)
-
-[Etch a Sketch ](https://github.com/vhforbes/etchASketch)
-
-[Countdown Timer ](https://github.com/vhforbes/countdownTimer)
-
-[Rock Paper Scissors](https://github.com/vhforbes/rockPaperScissors)
+[Wheather Forecast - React](https://vhforbes.github.io/weather-api/) - [Todo list - React](https://vhforbes.github.io/todo-list-react/) - [Shopping Cart - React](https://vhforbes.github.io/shopping-cart-react/) - [WebPack Restaurant Page](https://vhforbes.github.io/restaurantWebpack/) - [Tic Tac Toe ](https://github.com/vhforbes/ticTacToe) - [JS Calculator](https://github.com/vhforbes/theCalculator) - [Etch a Sketch ](https://github.com/vhforbes/etchASketch) - [Countdown Timer ](https://github.com/vhforbes/countdownTimer) - [Rock Paper Scissors](https://github.com/vhforbes/rockPaperScissors)
