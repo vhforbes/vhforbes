@@ -5,10 +5,9 @@
 I'm a software developer who loves to deliver great experiences and do my best to ensure my team's work is always the best we can deliver. Stronger on the frontend, but always looking at the entire stack and architecture of the project. I've been working with microfrontends for the last 2 years, helping drive a full frontend overhaul of an enterprise ecommerce platform.
 
 
-## Check out some of my recent work:
+## Check out some of my work:
 
-### [anyflow](https://app-staging.anyflow.pro/start)
-Streamline web3 DevOps with fast, secure multi-blockchain smart contract deployments
+Helped develop the FE for a web3 multi-blockchain smart contract deployments
 
 [anyflow - Frontend](https://github.com/vhforbes/anyflow-frontend)
 
