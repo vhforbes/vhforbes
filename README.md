@@ -2,9 +2,7 @@
 
 ## Welcome to my GitHub profile!
 
-I'm a FullStack developer with 4 years of experience. I've developed a bunch of different projects with various stacks. My goal is to be a better developer each day, delivering high quality code meticulously built and thought out.
-
-In the beginning of 2020 I entered the world of programming. Thanks to [The Odin Project](https://www.theodinproject.com/home), I was able to fall in love with programming. Since then I've always been looking for a challenge and to learn new things!
+I'm a software developer who loves to deliver great experiences and do my best to ensure my team's work is always the best we can deliver. Stronger on the frontend, but always looking at the entire stack and architecture of the project. I've been working with microfrontends for the last 2 years, helping drive a full frontend overhaul of an enterprise ecommerce platform.
 
 
 ## Check out some of my recent work:
