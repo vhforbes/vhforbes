@@ -1,4 +1,4 @@
-# Hey! I'm Victor 👋
+# Hey! I'm Victor Hugo Forbes 👋
 
 ## Welcome to my GitHub profile!
 
